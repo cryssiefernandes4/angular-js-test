@@ -14,6 +14,7 @@ import { HeroService } from './hero.service';
    </nav>
   `,
   providers: [HeroService],
+  styleUrls: ['./app.component.css'],
 })
 
 export class AppComponent {
